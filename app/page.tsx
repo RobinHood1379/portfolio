@@ -1,10 +1,10 @@
 export default function Home() {
   return (
-    <div className="min-h-screen bg-white text-slate-800 font-sans">
+    <div className="min-h-screen bg-[#f8f5f0] text-slate-800 font-sans">
 
       {/* Hero */}
       <section className="flex flex-col items-center justify-center min-h-screen px-6 text-center">
-        <p className="text-sm font-semibold tracking-widest uppercase text-slate-400 mb-4">
+        <p className="text-base font-semibold tracking-widest uppercase text-slate-600 mb-4">
           Financial Planner
         </p>
         <h1 className="text-5xl sm:text-6xl font-bold text-slate-900 mb-6">
@@ -15,7 +15,7 @@ export default function Home() {
         </p>
         <a
           href="#contact"
-          className="mt-10 inline-block bg-slate-900 text-white text-sm font-medium px-8 py-3 rounded-full hover:bg-slate-700 transition-colors"
+          className="mt-10 inline-block bg-slate-900 text-white text-base font-medium px-10 py-4 rounded-full hover:bg-slate-700 transition-colors"
         >
           Get in touch
         </a>
