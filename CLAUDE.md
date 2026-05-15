@@ -25,5 +25,5 @@ This is a personal portfolio website — the user's first coding project.
 - Start building the portfolio site
 
 ## Workflow requirements
-- After every code change, commit and push to GitHub
+- After every 3rd code change, commit and push to GitHub
 - After pushing, confirm to the user with the commit message and confirmation that the live site will update shortly
